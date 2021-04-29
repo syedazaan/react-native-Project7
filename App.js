@@ -3,7 +3,7 @@ import { StyleSheet,Text,View,  Image,  ImageBackground,FlatList} from 'react-na
 import { Card } from 'react-native-elements';
 
 
-
+// hiiiii
   const data = [
     {
       imageUrl: "http://via.placeholder.com/160*160",
